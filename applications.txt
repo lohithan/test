@@ -1,0 +1,2 @@
+This project can easily calculate the total bill of the customer orders. There will be no thinking for the prices of the food items as this system will take the prices from the menu list. While printing the bill the bill it will be having recommendations where it will be giving the top saled food item to the customer
+		
